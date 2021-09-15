@@ -1,7 +1,9 @@
 # Mercanografia
 
 
-![](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-19-28.png)
+Aqui hablo de la mecanografia que hago.
+
+[Enlace al Professor](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Mecanograf%C3%ADa.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa)
  
 ### 15 septiembre
 
