@@ -10,5 +10,5 @@ Aqui hablo de la mecanografia que hago.
 #  Descripcion 
 Estaba practicando 
 
-![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-19-28.png)
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-34-54.png?token=AVUMTJ6GG3C5TPKPLXW6OADBIHR7E)
 
