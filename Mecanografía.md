@@ -13,4 +13,5 @@ Estaba practicando
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-34-54.png?token=AVUMTJ6GG3C5TPKPLXW6OADBIHR7E)
 
 ### 22 de septiembre
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/22%20september.png)
 
