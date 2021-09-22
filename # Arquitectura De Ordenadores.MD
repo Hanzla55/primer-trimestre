@@ -5,6 +5,10 @@
  ![](https://informaticaenmicasa.com/wp-content/uploads/2014/06/placa-base-1-300x179.png)
 
 
+## Índice (Index)
+
+- [Clase de binario](https://github.com/Hanzla55/primer-trimestre/blob/main/%23%20Arquitectura%20De%20Ordenadores.MD#binario)
+
 ## Binario 
 El sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
 
