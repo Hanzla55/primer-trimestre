@@ -9,6 +9,21 @@
 
 - [Clase de binario](#binario)
 
+## Apuntes de clase
+
+### Procesador
+
+El microprocesador es un circuito integradoformado por millones de transistores, cuya función es procesar los datos y las instruccionesque recibe de la memoria RAM. El área ocupada por dicho circuito viene a ser un cuadrado de 1 cm de lado, pero la gran cantidad de patillas de conexión que necesita para conectarse a la placa base, hace que su tamaño total sea mayor.
+
+[Fuente: apuntes del profesor](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
+
+### Ram
+
+### Teclado
+
+### Tarjeta gráfica
+
+
 ## Binario 
 El sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
 
