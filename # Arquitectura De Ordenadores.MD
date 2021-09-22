@@ -6,10 +6,10 @@
 
 
 ## Binario  
-Cuanto es 100000 en binario?
+Cuanto es 100000 en binario?   
 100000 en binario es 11000011010100000
 
-Cuanto es 100010111100100111 en decimal
+Cuanto es 100010111100100111 en decimal?   
 100010111100100111 en decimal es 143143
 
 
