@@ -43,7 +43,14 @@ La función básica de una tarjeta gráfica es convertirla información procesad
  El procesador gráfico. Denominado GPU (Unidad de Procesamiento Gráfico)Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios para obtener la imagen final. Igual que el procesador del ordenador, el procesador de la TG trabaja a una determinada velocidad o frecuencia de reloj, expresada en megahercios (de 200  a  500  MHz).  Para  evitar  su  deterioro  por  calentamiento,  deben  ser  refrigerados mediante disipadores térmicos, a los que se añade, generalmente, un pequeño ventilador.
  
  ### Que es la memoria grafica?
- 
+ Velocidades:
+
+    GPU Boost Clock
+        OC Mode 1506 MHz
+        Gaming Mode 1468 MHz
+    GPU Base Clock
+        OC Mode 1266 MHz
+        Gaming Mode 1228 MHz
 Es  una memoria de tipo RAM en la que se almacena gran parte de la información gráfica que debe procesar la GPU. Otra parte de dicha información gráfica puede almacenarse en la memoria RAM de la placa base, debiendo acceder a ella la tarjeta a través del puente norte. La memoria gráfica se caracteriza por su capacidad, (expresada en MB), por  su velocidad  de  trabajo(expresada  en  MHz)  y  por  el tipo(DDR,  DDR2,  GDDR3). La tarjetas actuales suelen tener entre 512 MB  y 4 GB de capacidad y funcionan a frecuencias comprendidas entre 200 MHz y 1000 MHz, aproximadamente.
 
 ### Tipo de interfaz:
