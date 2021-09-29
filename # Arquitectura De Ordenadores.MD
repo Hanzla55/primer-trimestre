@@ -70,6 +70,16 @@ Velocidades:
     GPU Base Clock
         OC Mode 1266 MHz
         Gaming Mode 1228 MHz
+        
+ ### Discos Duros
+ 
+ #### Formateo y Sectores 
+ 
+ Tengo un disco duro magnetico de 100gb.
+ 
+ Cuantos sectores tiene si cada sector es de 512 bytes?
+ 
+ Aproximadomente 209 Millones de sectores.
 
 
 
