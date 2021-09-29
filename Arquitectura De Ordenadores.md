@@ -21,6 +21,10 @@
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/pc.png)
 
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/PC.png)
+
+El Precio total es 992,27€
+
+
 ### Procesador
 
 El microprocesador es un circuito integradoformado por millones de transistores, cuya función es procesar los datos y las instruccionesque recibe de la memoria RAM. El área ocupada por dicho circuito viene a ser un cuadrado de 1 cm de lado, pero la gran cantidad de patillas de conexión que necesita para conectarse a la placa base, hace que su tamaño total sea mayor.
