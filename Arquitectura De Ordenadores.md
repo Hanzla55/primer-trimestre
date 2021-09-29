@@ -18,8 +18,7 @@
 
     Batería
 ## Creacion de Ordinador
-Processador:
-![](https://img.pccomponentes.com/articles/36/362356/1204-intel-core-i5-11600k-39-ghz.jpg)
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/pc.png)
 
 ### Procesador
 
