@@ -17,7 +17,7 @@
     Fuentes de Alimentación
 
     Batería
-## Creacion DE Ordinador
+## Creacion de Ordinador
 Processador:
 ![](https://img.pccomponentes.com/articles/36/362356/1204-intel-core-i5-11600k-39-ghz.jpg)
 
