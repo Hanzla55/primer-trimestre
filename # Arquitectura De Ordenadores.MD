@@ -9,7 +9,15 @@
 
 - [Clase de binario](#binario)
 
-## Apuntes de clase
+# Apuntes de Classe
+  ### Portátil
+
+    Transformador externo
+
+    Fuentes de Alimentación
+
+    Batería
+
 
 ### Procesador
 
@@ -18,6 +26,10 @@ El microprocesador es un circuito integradoformado por millones de transistores,
 [Fuente: apuntes del profesor](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 ### Ram
+
+La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas con los que está trabajando. Todo lo que hay en ella almacenado se borra cuando apagamos o reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, que se acopla a la placa base a través de una ranura específica.
+
+Suelen tener distintas capacidades (2GB,4GB,8GB,etc...) También tienen distintos tipos de memoria, por ejemplo, DDR, DDR2, DDR3 y DDR4.
 
 ### Teclado
 
