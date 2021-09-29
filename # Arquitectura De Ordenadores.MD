@@ -62,6 +62,14 @@ Tipo de Interfaz: PCI Express x16 3.0.
 Memoria Grafica: GDDR5.
 Tamaño de memoria: 2048 MB.
 Salidas de video: HDMI (1), DVI-D (1).
+Velocidades:
+
+    GPU Boost Clock
+        OC Mode 1506 MHz
+        Gaming Mode 1468 MHz
+    GPU Base Clock
+        OC Mode 1266 MHz
+        Gaming Mode 1228 MHz
 
 
 
