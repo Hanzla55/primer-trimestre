@@ -32,9 +32,11 @@ La memoria RAM es donde el ordenador almacena temporalmente los datos y los prog
 Suelen tener distintas capacidades (2GB,4GB,8GB,etc...) También tienen distintos tipos de memoria, por ejemplo, DDR, DDR2, DDR3 y DDR4.
 
 ### Teclado
+Son dispositivos de entrada activados por la pulsación de teclas. Incorporan un circuito de entrada que se comunica con el pc. Su conexión es USB.
 
 ### Tarjeta gráfica
 
+La función básica de una tarjeta gráfica es convertirla información procesada por el ordenador, o la propia tarjeta, en una señalque pueda entender el monitor, para mostrarlaen forma de imagenen  la pantalla.
 
 ## Binario 
 El sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
