@@ -107,7 +107,46 @@ Velocidades:
  
  
  
-### Tarjetas de sonido
+ 
+ 
+ ### Formatos de Archivo
+
+Windows: FAT, FAT32, NTFS
+
+Linux: EXT2, EXT3, EXT4
+
+
+## Internet y redes 
+
+### Redes Locales LAN
+ 
+LAN: Local Area Network
+
+Protocolo TCP/IP ---> IPv4, tiene 4 bytes y tienen rango de 0 a 256, por ejemplo 192.168.0.1 ( El propio PC)
+
+Un switch es un dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet (o técnicamente IEEE 802.3). De esta [página](http://www.trabajosocial.unlp.edu.ar/uploads/docs/switch__routers_y_acces_point__conceptos_generales.pdf).
+
+Servidor Wi-fi o punto de acesso Wi-fi tiene Protocolo TCP/IP, pero no tiene porque tener internet.
+
+DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por ejemplo 255.255.0.193. Antes se hacia de forma manual.
+
+Ataque DDOS--> Pedir a la vez demasiadas cosas a un mismo servidor.
+
+Stream : Arroyo de Datos--> Corriente de agua
+
+UTP
+
+Puertos---> Puertas, Abiertas o Cerradas---> 80---> htts y 442 --> https  Ambos son hipertextos
+         
+LAN 
+
+4 bytes IPv4
+
+255.255.255.255  Hay un máximo 4228250625 de ordenadores en IPv4, IPv6 permiten que se conecten más dispositivos.
+ 
+ 
+ 
+ ### Tarjetas de sonido
 
 Velocidad = Frecuencia x Ancho de banda
 
