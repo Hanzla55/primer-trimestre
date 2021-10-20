@@ -40,7 +40,7 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
 
 
 ## Imagenes vectoriales:
-se define la imagen como un conjunto de formas (lineas,puntos,etc).cada uno de estas formas esta definada matematicamente
+Se define la imagen como un conjunto de formas (lineas,puntos,etc).cada uno de estas formas esta definada matematicamente
 
 ### Formas 
 
