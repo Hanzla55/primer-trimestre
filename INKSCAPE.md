@@ -70,10 +70,12 @@ FORMAT
 
 Que es rasterizar un imagen?
 
-rasterizamos un imagen ,cuando pasamos de una imagen vectorial a una imagen raster  mappa de bit
+rasterizamos un imagen ,cuando pasamos de una imagen vectorial a una imagen raster  (mapa de bits)
 
 
 Que es vectorizar un imagen?
 
 vectorizar es pasar de un mapa de bits 
-(imagen raster) a formato vectorial
+(imagen raster) a formato vectorial. SVG,EPS
+
+LOS DOS SON CONTRARIOS DE UN A OTRO.
