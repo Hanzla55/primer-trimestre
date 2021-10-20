@@ -1,4 +1,4 @@
-## primer-trimestre
+# primer-trimestre
 primer trimestre
 
 ## Bienvenidos
@@ -19,3 +19,5 @@ Me Gusta Cricket
 [Mecanografia](https://github.com/Hanzla55/primer-trimestre/blob/main/Mecanograf%C3%ADa.md)
 
 [Montaje DE Ordenadors](https://github.com/Hanzla55/primer-trimestre/blob/main/MONTAJE%20DE%20ORDENADORS.MD)
+
+[INKSCAPE](https://github.com/Hanzla55/primer-trimestre/blob/main/INKSCAPE.md)
