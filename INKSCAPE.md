@@ -93,3 +93,7 @@ Esta es la imagen rasterizada original
 imagen de cuadro vectoarizado
 
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/dibujo.png)
+
+
+
+
