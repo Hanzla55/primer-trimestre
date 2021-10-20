@@ -36,3 +36,34 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
  - Colores indexados -> Toma hasta 256 colores y se usan solo esos --> GIFs
 
 ![](https://c.tenor.com/_SPMSIgwlT8AAAAC/kid-run.gif)
+
+
+
+## Imagenes vectoriales:
+se define la imagen como un conjunto de formas (lineas,puntos,etc).cada uno de estas formas esta definada matematicamente
+
+### Formas 
+
+#### Formatos Vectoriales
+
+SVG(scalable vector graphic)
+
+EPS
+
+Especificos
+
+DWG 3DM A1
+
+DXF
+
+Autocad
+
+#### Formato Mezcla/Raster
+
+PDF
+
+PORTABLE
+
+DOCUMENT
+
+FORMAT
