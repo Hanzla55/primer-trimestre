@@ -30,13 +30,16 @@
 ## Investigación
 
 - ¿De qué año es?
+- 
 - entre 1995 y2005
 - 
 
   Funcionaría el ordenador?
+  
   NO
   
   Le faltan piezas?
+  
   SI, falta tarjeta grafica
   
   ¿Cómo es el ordenador que tengo que desmontar?
