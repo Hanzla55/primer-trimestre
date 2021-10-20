@@ -34,3 +34,5 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
  - CMYK (Cyan, Magenta, Yellow, Black) para imprimir
 
  - Colores indexados -> Toma hasta 256 colores y se usan solo esos --> GIFs
+
+![](https://c.tenor.com/_SPMSIgwlT8AAAAC/kid-run.gif)
