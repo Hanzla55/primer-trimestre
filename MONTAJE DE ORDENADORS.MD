@@ -43,6 +43,7 @@
   SI, falta tarjeta grafica
   
   ¿Cómo es el ordenador que tengo que desmontar?
+  
   Es un ordenador antiguo de color blanco
   
   Aquí dejo unas imágenes del mismo:
