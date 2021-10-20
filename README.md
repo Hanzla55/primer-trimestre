@@ -6,7 +6,7 @@ primer trimestre
 Soy de PAKISTAN
 Me Gusta Cricket
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/imran-icc.webp)
-
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/cricket2-1621789112.jpg)
 
 
 
