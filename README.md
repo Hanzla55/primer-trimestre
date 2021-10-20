@@ -17,3 +17,5 @@ Me Gusta Cricket
 [Arquitectura de ordenadores](https://github.com/Hanzla55/primer-trimestre/blob/main/%23%20Arquitectura%20De%20Ordenadores.MD)
 
 [Mecanografia](https://github.com/Hanzla55/primer-trimestre/blob/main/Mecanograf%C3%ADa.md)
+
+[Montaje DE Ordenadors](https://github.com/Hanzla55/primer-trimestre/blob/main/MONTAJE%20DE%20ORDENADORS.MD)
