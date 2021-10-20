@@ -89,3 +89,7 @@ Esta es la imagen rasterizada original
 ![](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
 
 [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
+
+imagen de cuadro vectoarizado
+
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/dibujo.png)
