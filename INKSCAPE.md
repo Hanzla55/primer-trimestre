@@ -67,3 +67,13 @@ PORTABLE
 DOCUMENT
 
 FORMAT
+
+Que es rasterizar un imagen?
+
+rasterizamos un imagen ,cuando pasamos de una imagen vectorial a una imagen raster  mappa de bit
+
+
+Que es vectorizar un imagen?
+
+vectorizar es pasar de un mapa de bits 
+(imagen raster) a formato vectorial
