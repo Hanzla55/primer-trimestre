@@ -1,5 +1,4 @@
 # primer-trimestre
-primer trimestre
 
 ## Bienvenidos
  Hola mi llamo Hanzla 
