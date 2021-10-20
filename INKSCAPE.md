@@ -79,3 +79,11 @@ vectorizar es pasar de un mapa de bits
 (imagen raster) a formato vectorial. SVG,EPS
 
 LOS DOS SON CONTRARIOS DE UN A OTRO.
+
+
+### Ejercicio Vectorizacion
+
+Vamos a tomar la imagen de cuadro de leon de ROSA BONHEUR.
+
+Esta es la imagen rasterizada original 
+![](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
