@@ -142,6 +142,8 @@ imagen de cuadro vectoarizado
 Etava trabajando con inkscape y conjelado ordinador y  borrado todo que hecho.today i learned how to make different types of logos with the help of diagrams like circle,triangle,etc.
 
 Here is what i made after that.
-![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/logo%2003.png)
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/logo%2003.png)ç
+
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/5a12e8e84bf50b318c03b9f7f3adba2ae3876a33/UNDREGROUND.svg)
 
 
