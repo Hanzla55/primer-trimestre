@@ -137,5 +137,7 @@ imagen de cuadro vectoarizado
 
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/leon2%20COLOR%20png.png)
 
+                                         27 de Octubre
 
+Etava trabajando con inkscape y conjelado ordinador y  borrado todo que hecho.today i learned how to make different types of logos with the help of diagrams like circle,triangle,etc.
 
