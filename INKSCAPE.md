@@ -128,6 +128,14 @@ imagen de cuadro vectoarizado
 
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/leon%201500%201882.png)
 
-### Estil de color
+### Estil de linia
+
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/leon2%20LINIA%20png.png)
+
+
+### Estil de Color
+
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/leon2%20COLOR%20png.png)
+
+
 
