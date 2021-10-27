@@ -97,4 +97,9 @@ imagen de cuadro vectoarizado
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/40f5e49f5b251ed669ee820dbafe9bc4e407bc90/leon1.svg)
 
 
+### Leon 1
+16 20
+![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/leon%2016%2020.png)
+
+
 
