@@ -15,7 +15,7 @@ Me Gusta Cricket
 
 ## Enlaces
 
-[Arquitectura de ordenadores](https://github.com/Hanzla55/primer-trimestre/blob/main/%23%20Arquitectura%20De%20Ordenadores.MD)
+[Arquitectura de ordenadores](https://github.com/Hanzla55/primer-trimestre/blob/main/Arquitectura%20De%20Ordenadores.md)
 
 [Mecanografia](https://github.com/Hanzla55/primer-trimestre/blob/main/Mecanograf%C3%ADa.md)
 
