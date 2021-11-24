@@ -13,6 +13,10 @@ Estaba practicando mecanografia por difirente sitios de web
 
 que profe ha puesto en su repostorio.
 
+
+### IMAGENES
+Aqui estan los imagenes que ha practicado
+
 ![](https://raw.githubusercontent.com/Hanzla55/primer-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-34-54.png?token=AVUMTJ6GG3C5TPKPLXW6OADBIHR7E)
 
 ### 22 de septiembre
