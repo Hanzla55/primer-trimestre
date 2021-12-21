@@ -23,4 +23,4 @@ Me Gusta Cricket
 
 [INKSCAPE](https://github.com/Hanzla55/primer-trimestre/blob/main/INKSCAPE.md)
 
-[ENLACE AL PROFESSOR](https://github.com/Hanzla55/PFI-Fabricacion-digital)
+[ENLACE AL PROFESSOR](https://github.com/d-prieto)
